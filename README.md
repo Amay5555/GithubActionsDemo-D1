@@ -10,3 +10,4 @@
 # Configuring main.yml file
   Using the Github actions sample syntax configured a simple workflow which triggers every single time there is a push or pull request. After that tests are run inside the container.
   Finally docker runs the webapp.
+<img width="1280" alt="GithubActions" src="https://github.com/user-attachments/assets/d1559b13-84f1-436c-be79-686735e05fca" />
